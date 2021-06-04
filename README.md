@@ -1,1 +1,1 @@
-# search-location-library-with-CQRS-Mediator-pattern
+# Class Library for Location Search using CQRS Mediator (DB will be added later)
